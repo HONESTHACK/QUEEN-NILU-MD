@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;57AVEIiR#J4fEw0tq4veqkw6jBAXKVbvwVT-yHkL3E5TerbvONW8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://mrnilu_user:Vt9hHUayAG0wEPSicPR0Jq7DRj6ykbxU@dpg-cl77o3avokcc73ajirb0-a.oregon-postgres.render.com/mrnilu'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '+255684102469'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'MR-HONEST-BOT'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -35,19 +35,19 @@ global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
-global.OPENAI_API_KEY = "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" 
+global.OPENAI_API_KEY = "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" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'MR-HONE3ST-BOT-'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'MR-HONE3ST-BOT 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@MR-HONE3ST 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
